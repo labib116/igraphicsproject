@@ -1,8 +1,0 @@
-This project was done using igraphics library as a part of my CSE 102 course.
-
-
-The main idea was to replicate a basic traffic signal and its application. The whole project was divided into three parts
-1. 4 -Lane crossroad where all the roads intersect together and only one way movement is allowed
-2. 6-lane crossroad where there is an extra lane for lane changing
-3. A roundabout
-Music and background sound was added
