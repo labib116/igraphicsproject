@@ -2,7 +2,8 @@
 #include<stdio.h>
 int x=200,y=300,z=200,r=50;
 /*
-	function iDraw() is called again and again by the system.
+	function iDraw() is called again and again by the system.this is a core concept
+    
 
 	*/
 char bikelefttocenter[30][50] = {
